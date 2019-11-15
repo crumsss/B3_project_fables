@@ -1,0 +1,47 @@
+body{
+  background-color: #2b355d;
+  background-image: url(image01.jpeg);
+}
+
+
+article{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 840px;
+}
+
+h1 {
+  color: white;
+  text-shadow: 12px 12px 20px Navy;
+}
+
+p1, p2, p3 {
+  color: white;
+  }
+
+h2 {
+  color: orange;
+ }
+ h3 {
+   color: pink;
+ }
+ h4{
+   color: DarkOrchid ;
+ }
+h2{
+  border-width:1px;
+  border-style:dotted;
+  border-color:orange;
+}
+
+h3{
+  border-width:1px;
+border-style:groove;
+border-color:pink;
+}
+
+h4{
+  border-width:1px;
+border-style:ridge;
+border-color:DarkOrchid;
+}
